@@ -19,13 +19,14 @@ Audio File: [philosophy-raws] Ping Pong The Animation [11][Ma10p_1080p][x265_2fl
 Video File: [philosophy-raws] Ping Pong The Animation [11][Ma10p_1080p][x265_2flac].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Active Line: 743
-Video Position: 30489
+Video Zoom Percent: 0.500000
+Scroll Position: 132
+Active Line: 139
+Video Position: 5678
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,DFBangBangW5-B5,68,&H00FFFFFF,&H000000FF,&H64000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.7,0,2,30,30,11,1
+Style: Default,DFBangBangW5-B5,68,&H00FFFFFF,&H000000FF,&H64FF160C,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,2,30,30,11,1
 Style: zhu,華康徽宗宮體W5(P),54,&H00FFFFFF,&H000000FF,&H64000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.7,0,8,30,30,11,1
 Style: op-cn,FZXingKai-S04,88,&H00FFFFFF,&H000000FF,&H00FF2E00,&H00000000,-1,0,0,0,100,100,0,0,1,2,2.025,2,30,30,23,1
 Style: op-jp,ＤＦＰ風雲体W12,68,&H00E8EDEC,&H000000FF,&H00FC3003,&H00000000,0,0,0,0,100,100,0,0,1,2,1.8,8,30,30,23,1
@@ -42,7 +43,7 @@ Style: chaqu-jp,A-OTF Kyoukasho ICA Pro R,63,&H00FFFFFF,&H000000FF,&H64000000,&H
 Style: pm5,@方正准圆_GBK,63,&H005B6064,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,270,1,0.225,0,2,30,30,23,1
 Style: ed-jp-2,@MS Gothic,47,&H00C91E1A,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,270,1,0,0,8,30,30,14,1
 Style: ed-cn-2,@黑体,50,&H00C91E1A,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,270,1,0,0,2,30,30,23,1
-Style: JP,FOT-ロダンわんぱく Pro B,54,&H00FFFFFF,&H000000FF,&H64000000,&H00000000,0,0,0,0,100,100,0,0,1,2.7,0,2,29,30,11,1
+Style: JP,FOT-ロダンわんぱく Pro B,54,&H00FFFFFF,&H000000FF,&H64FF0C2C,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,29,30,11,1
 Style: Chinese,DFPKanTingLiu-B5,68,&H00FFFFFF,&H000000FF,&H000000FF,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
@@ -209,7 +210,7 @@ Dialogue: 0,0:04:52.39,0:04:53.94,JP,,0,0,0,,おかしきゃ笑えよ
 Dialogue: 0,0:04:54.60,0:04:57.61,JP,,0,0,0,,お前 見てんと　何か 時々 いらついてくんよ
 Dialogue: 0,0:04:57.94,0:05:00.78,JP,,0,0,0,,うん 分かった 努力してみる
 Dialogue: 0,0:05:01.32,0:05:04.65,JP,,0,0,0,,けっ 変わってやがんな　訳 分かんねえよ
-Dialogue: 0,0:05:05.57,0:05:08.07,JP,,0,0,0,,どうして 星野は いつも　学校サボるの？ 
+Dialogue: 0,0:05:05.57,0:05:08.07,JP,,0,0,0,,どうして 星野は いつも　学校サボるの？
 Dialogue: 0,0:05:08.49,0:05:09.70,JP,,0,0,0,,学校 嫌い？
 Dialogue: 0,0:05:10.20,0:05:11.33,JP,,0,0,0,,聞いてねえか？
 Dialogue: 0,0:05:11.33,0:05:13.20,JP,,0,0,0,,試合さ 卓球の

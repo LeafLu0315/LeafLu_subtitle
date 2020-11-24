@@ -27,7 +27,7 @@ Video Position: 3323
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,DFBangBangW5-B5,68,&H00FFFFFF,&H000000FF,&H64000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.7,0,2,30,30,11,1
+Style: Default,DFBangBangW5-B5,68,&H00FFFFFF,&H000000FF,&H64FF160C,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,2,30,30,11,1
 Style: zhu,華康徽宗宮體W5(P),54,&H00FFFFFF,&H000000FF,&H64000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.7,0,8,30,30,11,1
 Style: op-cn,FZXingKai-S04,88,&H00FFFFFF,&H000000FF,&H00FF2E00,&H00000000,-1,0,0,0,100,100,0,0,1,2,2.025,2,30,30,23,1
 Style: op-jp,ＤＦＰ風雲体W12,68,&H00E8EDEC,&H000000FF,&H00FC3003,&H00000000,0,0,0,0,100,100,0,0,1,2,1.8,8,30,30,23,1
@@ -38,7 +38,7 @@ Style: pm2,方正准圆_GBK,63,&H0083670C,&H000000FF,&H00000000,&H00000000,-1,0,
 Style: pm3,方正准圆_GBK,63,&H00924DE9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.225,0,8,30,30,0,1
 Style: pm4,方正准圆_GBK,63,&H00399CC2,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.225,0,8,30,30,0,1
 Style: biaoti,方正大黑_GBK,101,&H00DDDDDD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,23,1
-Style: JP,FOT-ロダンわんぱく Pro B,54,&H00FFFFFF,&H000000FF,&H64000000,&H00000000,0,0,0,0,100,100,0,0,1,2.7,0,2,29,30,11,1
+Style: JP,FOT-ロダンわんぱく Pro B,54,&H00FFFFFF,&H000000FF,&H64FF0C2C,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,29,30,11,1
 Style: Chinese,DFPKanTingLiu-B5,68,&H00FFFFFF,&H000000FF,&H000000FF,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
@@ -346,7 +346,7 @@ Dialogue: 0,0:18:44.02,0:18:45.59,JP,,0,0,0,,すっげえ 回転
 Dialogue: 0,0:18:45.59,0:18:47.66,JP,,0,0,0,,こりゃ かぶせて  当ててくっきゃねえか
 Dialogue: 0,0:19:51.45,0:19:54.53,JP,,0,0,0,,イレブン ラブ  マッチトゥ コン選手
 Dialogue: 0,0:19:55.28,0:19:57.00,JP,,0,0,0,,スコンクで負けた…
-Dialogue: 0,0:19:59.40,0:20:00.77,JP,,0,0,0,,ス… スコンクで… 
+Dialogue: 0,0:19:59.40,0:20:00.77,JP,,0,0,0,,ス… スコンクで…
 Dialogue: 0,0:20:04.12,0:20:06.32,JP,,0,0,0,,負けると泣くの 悪い癖だよ
 Dialogue: 0,0:20:06.32,0:20:07.52,JP,,0,0,0,,帰ろう ペコ
 Dialogue: 0,0:20:10.79,0:20:12.36,JP,,0,0,0,,さあ 立って ほら
