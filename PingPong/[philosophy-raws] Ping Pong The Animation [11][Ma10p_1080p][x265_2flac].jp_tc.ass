@@ -20,9 +20,9 @@ Video File: [philosophy-raws] Ping Pong The Animation [11][Ma10p_1080p][x265_2fl
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 132
-Active Line: 139
-Video Position: 5678
+Scroll Position: 33
+Active Line: 41
+Video Position: 32376
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,8 +30,8 @@ Style: Default,DFBangBangW5-B5,68,&H00FFFFFF,&H000000FF,&H64FF160C,&H00000000,-1
 Style: zhu,華康徽宗宮體W5(P),54,&H00FFFFFF,&H000000FF,&H64000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.7,0,8,30,30,11,1
 Style: op-cn,FZXingKai-S04,88,&H00FFFFFF,&H000000FF,&H00FF2E00,&H00000000,-1,0,0,0,100,100,0,0,1,2,2.025,2,30,30,23,1
 Style: op-jp,ＤＦＰ風雲体W12,68,&H00E8EDEC,&H000000FF,&H00FC3003,&H00000000,0,0,0,0,100,100,0,0,1,2,1.8,8,30,30,23,1
-Style: ed-cn,DFGuYinMedium-B5,68,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,23,1
-Style: ed-jp,ＤＦPOPミックスW5,60,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,14,1
+Style: ed-cn,@DFGuYinMedium-B5,68,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,-90,1,0,0,2,30,30,23,1
+Style: ed-jp,@ＤＦPOPミックスW5,60,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,-90,1,0,0,8,30,30,14,1
 Style: biaoti,方正大黑_GBK,101,&H00DDDDDD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,23,1
 Style: biaoti2,@方正大黑_GBK,101,&H00DDDDDD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,270,1,0,0,2,30,30,23,1
 Style: pm,方正准圆_GBK,63,&H00399CC2,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.225,0,2,30,30,23,1
@@ -89,7 +89,7 @@ Dialogue: 0,0:21:31.52,0:21:38.28,ed-jp,,0,0,0,,{\fad(300,300)}{\pos(1890,540)}�
 Dialogue: 0,0:21:38.69,0:21:45.12,ed-jp,,0,0,0,,{\fad(300,300)}{\pos(1890,540)}望みはメトロノームのよう
 Dialogue: 0,0:21:45.83,0:21:52.29,ed-jp,,0,0,0,,{\fad(300,500)}{\pos(1890,540)}全てだけが終わり告げる
 Dialogue: 0,0:21:53.17,0:21:56.00,ed-jp,,0,0,0,,{\fad(300,0)}{\pos(1890,540)}夢ではない そうでもない
-Dialogue: 0,0:21:56.00,0:22:01.17,ed-jp,,0,0,0,,{\pos(1890,540)}僕らはね ここにもない誰かのタバコを吸って
+Dialogue: 0,0:21:56.00,0:22:01.17,ed-jp,,0,0,0,,{\pos(1890,540)}{\fs50}僕らはね ここにもない誰かのタバコを吸って
 Dialogue: 0,0:22:01.17,0:22:03.13,ed-jp,,0,0,0,,{\pos(1890,540)}一息ついたら
 Dialogue: 0,0:22:03.13,0:22:06.68,ed-jp,,0,0,0,,{\pos(1890,540)}光りだす俺 決意の絵文字
 Dialogue: 0,0:22:06.68,0:22:08.43,ed-jp,,0,0,0,,{\pos(1890,540)}果てはfade away？
