@@ -17,9 +17,8 @@ Video File: [VCB-Studio] BOFURI [01][Ma10p_1080p][x265_flac].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 2286
-Active Line: 2349
-Video Position: 33939
+Active Line: 2
+Video Position: 1963
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -45,6 +44,7 @@ Style: JP,ＤＦＰ綜藝体W5,50,&H00FFFFFF,&H000000FF,&H00B817F5,&H00000000,-1
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.50,0:00:03.50,staff,,0,0,0,,{\fad(200,200)}本字幕禁止商用與二次上傳，如果您喜歡本作品請支持正版！
 Dialogue: 0,0:01:15.68,0:01:21.85,Title,,0,0,0,,{\an5\pos(960,130)}怕痛{\fn方正兰亭圆_GBK_中\fs70\b1\c&H000000&}的{\r}我{\fn方正兰亭圆_GBK_中\fs70\b1\c&H000000&}，把{\r\shad4}防禦力{\fs150\c&H000000&\4c&H6C07DE&}點{\r\shad4}滿{\r\fn方正兰亭圆_GBK_中\fs70\b1\c&H000000&}就對了。
+Comment: 0,0:01:21.85,0:01:21.87,Title,,0,0,0,,雙語製作 by LeafLu
 Dialogue: 0,0:00:01.24,0:00:04.94,JP,,0,0,0,,面白い ほんと面白い 絶対 面白いからやってみて！
 Dialogue: 0,0:00:05.05,0:00:07.39,JP,,0,0,0,,えー？　今すぐ？
 Dialogue: 0,0:00:07.39,0:00:10.08,JP,,0,0,0,,そうだよ だって もう届いたんでしょ
