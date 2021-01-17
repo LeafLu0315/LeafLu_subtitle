@@ -12,14 +12,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Bofuri
-Audio File: [VCB-Studio] BOFURI [08][Ma10p_1080p][x265_flac].mkv
-Video File: [VCB-Studio] BOFURI [08][Ma10p_1080p][x265_flac].mkv
+Audio File: E:/Anime/日常(推理)向/怕痛的我把防禦力點滿就對了/[VCB-Studio] BOFURI [08][Ma10p_1080p][x265_flac].mkv
+Video File: E:/Anime/日常(推理)向/怕痛的我把防禦力點滿就對了/[VCB-Studio] BOFURI [08][Ma10p_1080p][x265_flac].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 704
-Active Line: 705
-Video Position: 32730
+Video Zoom Percent: 0.500000
+Scroll Position: 683
+Active Line: 691
+Video Position: 32677
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,8 +40,8 @@ Style: Sign,方正兰亭圆_GBK_中,113,&H00FFFFFF,&H000000FF,&H00000000,&H00000
 Style: Text,方正兰亭圆_GBK_中,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,1.5,2,195,195,45,1
 Style: Sign1,方正兰亭圆_GBK_中,150,&H00AA820D,&H000000FF,&H00BBC022,&H00000000,0,0,0,0,100,100,0,0,3,30,0,2,195,195,45,1
 Style: Sign2,方正兰亭圆_GBK_中,75,&H0097725D,&H000000FF,&H00F4EAD7,&H00000000,0,0,0,0,100,100,0,0,3,15,0,4,45,45,45,1
-Style: INEN,STLiti,70,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2,0,7,15,15,8,1
-Style: INCN,DFPPuDingW7-B5,65,&H00FFFFFF,&H000200ED,&H00000000,&H00000816,-1,0,0,0,100,100,3,0,1,3,0,3,15,15,8,1
+Style: INEN,ＤＦＰクラフト遊W7,70,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2,0,7,15,15,8,1
+Style: INCN,DFHanziPenW5-B5,65,&H00FFFFFF,&H000200ED,&H00000000,&H00000816,-1,0,0,0,100,100,3,0,1,3,0,3,15,15,8,1
 Style: JP,ＤＦＰ綜藝体W5,50,&H00FFFFFF,&H000000FF,&H00B817F5,&H00000000,-1,0,0,0,100,100,3,0,1,3,0,2,10,10,16,1
 
 [Events]
@@ -242,7 +242,7 @@ Dialogue: 0,0:13:32.17,0:13:34.73,JP,,0,0,0,,これ 操作が難しいよ
 Dialogue: 0,0:13:35.62,0:13:38.69,JP,,0,0,0,,その…　メイプルだよね？
 Dialogue: 0,0:13:39.70,0:13:41.57,JP,,0,0,0,,ちょっと待ってね
 Dialogue: 0,0:13:43.45,0:13:44.99,JP,,0,0,0,,何？　今の…
-Dialogue: 0,0:13:46.55,0:13:48.07,JP,,0,0,0,,〝暴虐〞っていってね
+Dialogue: 0,0:13:46.55,0:13:48.07,JP,,0,0,0,,”暴虐”っていってね
 Dialogue: 0,0:13:48.71,0:13:53.00,JP,,0,0,0,,装備の効果が　なくなる代わりに　ＳＴＲと　ＡＧＩが50増えて
 Dialogue: 0,0:13:53.02,0:13:54.83,JP,,0,0,0,,ＨＰが千になって
 Dialogue: 0,0:13:54.85,0:13:58.00,JP,,0,0,0,,ＨＰがなくなっても　元の状態に戻るだけ！
@@ -732,11 +732,11 @@ Dialogue: 0,0:02:29.11,0:02:32.14,OPCN,,0,0,0,,{\blur1\fad(200,200)}異想天開
 Dialogue: 0,0:02:32.17,0:02:34.57,OPCN,,0,0,0,,{\blur1\fad(200,200)}招來了奇蹟
 Dialogue: 0,0:02:34.60,0:02:38.58,OPCN,,0,0,0,,{\blur1\fad(200,200)}終極的不均衡
 Comment: 0,0:00:00.00,0:00:00.00,EDJP,,0,0,0,,------ED------
-Dialogue: 0,0:22:25.75,0:22:27.51,INCN,,0,0,0,,{\blur3\fad(200,200)\c&H00F8FF79\pos(561.961,75.323)}木漏れ日の向こう
-Dialogue: 0,0:22:27.54,0:22:30.28,INCN,,0,0,0,,{\blur3\fad(200,200)\c&H00F8FF79\pos(427.337,75.323)}遠く彼方へと
-Dialogue: 0,0:22:30.98,0:22:32.97,INCN,,0,0,0,,{\blur3\fad(200,200)\c&H00F8FF79\pos(555.551,75.323)}手を伸ばしたのは
-Dialogue: 0,0:22:32.99,0:22:36.16,INCN,,0,0,0,,{\blur3\fad(200,200)\c&H00F8FF79\pos(622.863,78.528)}魔法のような碧い空
-Dialogue: 0,0:22:36.59,0:22:38.41,INCN,,0,0,0,,{\blur3\fad(200,200)\c&H00F8FF79\pos(408.105,72.119)}寝転んだまま
+Dialogue: 0,0:22:25.75,0:22:27.51,INEN,,0,0,0,,{\blur3\fad(200,200)\c&H00F8FF79\pos(17.961,11.323)}木漏れ日の向こう
+Dialogue: 0,0:22:27.54,0:22:30.28,INEN,,0,0,0,,{\blur3\fad(200,200)\c&H00F8FF79\pos(17.961,11.323)}遠く彼方へと
+Dialogue: 0,0:22:30.98,0:22:32.97,INEN,,0,0,0,,{\blur3\fad(200,200)\c&H00F8FF79\pos(17.961,11.323)}手を伸ばしたのは
+Dialogue: 0,0:22:32.99,0:22:36.16,INEN,,0,0,0,,{\blur3\fad(200,200)\c&H00F8FF79\pos(17.961,11.323)}魔法のような碧い空
+Dialogue: 0,0:22:36.59,0:22:38.41,INEN,,0,0,0,,{\blur3\fad(200,200)\c&H00F8FF79\pos(17.961,11.323)}寝転んだまま
 Dialogue: 0,0:22:38.44,0:22:41.21,EDJP,,0,0,0,,{\blur3\fad(200,200)}耳を澄ませば
 Dialogue: 0,0:22:41.24,0:22:45.71,EDJP,,0,0,0,,{\blur3\fad(200,200)}楽しそうなあの　笑い声
 Dialogue: 0,0:22:46.95,0:22:49.59,EDJP,,0,0,0,,{\blur3\fad(200,200)}偶然できっと
