@@ -10,3 +10,4 @@
 |  #04   | 乒乓 | [PingPong](https://github.com/LeafLu0315/LeafLu_subtitle/tree/main/PingPong) | 自製字幕(A.I.R+豌豆字幕組) |
 |  #05   | 玉子市場 | [TamakoMarket](https://github.com/LeafLu0315/LeafLu_subtitle/tree/main/TamakoMarket) | 諸神字幕組 |
 |  #06   | 四疊半神話大系 | [Yojouhan_Shinwa_Taikei](https://github.com/LeafLu0315/LeafLu_subtitle/tree/main/Yojouhan_Shinwa_Taikei) | 自製字幕(CASO+豌豆字幕組) |
+|  #07   | 怕痛的我，把防禦力點滿就對了 | [Bofuri](https://github.com/LeafLu0315/LeafLu_subtitle/tree/main/Bofuri) | 自製字幕(VCB+HorribleSubs) |
