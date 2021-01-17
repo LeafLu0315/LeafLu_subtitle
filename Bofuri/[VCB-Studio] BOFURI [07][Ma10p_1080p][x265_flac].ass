@@ -47,7 +47,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.50,0:00:03.50,staff,,0,0,0,,{\fad(200,200)}本字幕禁止商用與二次上傳，如果您喜歡本作品請支持正版！
 Dialogue: 0,0:00:54.73,0:01:00.90,Title,,0,0,0,,{\pos(960,130)}怕痛{\fn方正兰亭圆_GBK_中\fs70\b1\c&H000000&}的{\r}我{\fn方正兰亭圆_GBK_中\fs70\b1\c&H000000&}，把{\r\shad4}防禦力{\fs150\c&H000000&\4c&H6C07DE&}點{\r\shad4}滿{\r\fn方正兰亭圆_GBK_中\fs70\b1\c&H000000&}就對了。
 Dialogue: 0,0:02:18.53,0:02:23.41,Title,,0,0,0,,{\shad4\blur2\fad(300,0)\pos(575,245)}防禦特化{\r\bord3\fs70\c&HFFFFFF&\fn方正准圆_GBK}與{\c&H7F18D8&\r\shad4\blur2}強化{\r\bord3\fs70\c&HFFFFFF&\fn方正准圆_GBK}。
-Comment: 0,0:02:23.41,0:02:25.19,Title,,0,0,0,,雙語字幕 by LeafLu
+Comment: 0,0:02:23.41,0:02:25.19,Title,,0,0,0,,雙語製作 by LeafLu
 Dialogue: 0,0:00:03.59,0:00:04.86,JP,,0,0,0,,マイちゃん　ユイちゃん
 Dialogue: 0,0:00:04.88,0:00:05.73,JP,,0,0,0,,何でもいいから
 Dialogue: 0,0:00:05.76,0:00:06.86,JP,,0,0,0,,一撃お願い
