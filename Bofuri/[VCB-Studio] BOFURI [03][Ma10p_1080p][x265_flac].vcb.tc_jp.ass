@@ -12,14 +12,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Bofuri
-Audio File: [VCB-Studio] BOFURI [03][Ma10p_1080p][x265_flac].mkv
-Video File: [VCB-Studio] BOFURI [03][Ma10p_1080p][x265_flac].mkv
+Audio File: E:/Anime/日常(推理)向/怕痛的我把防禦力點滿就對了/[VCB-Studio] BOFURI [03][Ma10p_1080p][x265_flac].mkv
+Video File: E:/Anime/日常(推理)向/怕痛的我把防禦力點滿就對了/[VCB-Studio] BOFURI [03][Ma10p_1080p][x265_flac].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 629
-Active Line: 645
-Video Position: 31673
+Video Zoom Percent: 0.250000
+Scroll Position: 75
+Active Line: 87
+Video Position: 7727
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -130,7 +130,7 @@ Dialogue: 0,0:05:08.96,0:05:10.11,JP,,0,0,0,,私 これ！
 Dialogue: 0,0:05:10.42,0:05:11.95,JP,,0,0,0,,じゃあ 私は これ
 Dialogue: 0,0:05:16.14,0:05:17.84,JP,,0,0,0,,ご注文の品でございます
 Dialogue: 0,0:05:18.26,0:05:20.52,JP,,0,0,0,,うわっ　本物そっくり　ごゆっくり
-Dialogue: 0,0:05:20.92,0:05:22.22,JP,,0,0,0,,どうぞ
+Dialogue: 0,0:05:20.92,0:05:22.22,JP,,0,0,0,,ごゆっくりどうぞ
 Dialogue: 0,0:05:22.61,0:05:23.78,JP,,0,0,0,,ありがとう
 Dialogue: 0,0:05:24.21,0:05:25.64,JP,,0,0,0,,いただきましょう
 Dialogue: 0,0:05:28.01,0:05:29.25,JP,,0,0,0,,おいしい！
