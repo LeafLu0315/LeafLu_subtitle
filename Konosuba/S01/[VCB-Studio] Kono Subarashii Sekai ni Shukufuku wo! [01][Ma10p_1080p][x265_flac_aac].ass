@@ -18,7 +18,7 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: Bofuri
+Last Style Storage: Konosuba(1)
 Audio File: [VCB-Studio] Kono Subarashii Sekai ni Shukufuku wo! [01][Ma10p_1080p][x265_flac_aac].mkv
 Video File: [VCB-Studio] Kono Subarashii Sekai ni Shukufuku wo! [01][Ma10p_1080p][x265_flac_aac].mkv
 Video AR Mode: 4
@@ -34,7 +34,7 @@ Style: Default,DFPLungMen-B5,85,&H00FFFFFF,&H000000FF,&H1EFF0C2C,&H00000000,0,0,
 Style: BackGround,DFPLungMen-B5,63,&H00FFFFFF,&H000000FF,&H1EFF5A2A,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,30,30,30,1
 Style: Comment,FZZhunYuan-M02,57,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,30,30,30,1
 Style: Screen,FZZhunYuan-M02,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,30,30,30,1
-Style: Title,FZZhiYi-M12,72,&H00F6F5F0,&H000000FF,&H1E000000,&H00000000,-1,0,0,0,100,100,1.5,0,1,0,0,5,15,15,15,1
+Style: Title,DFGuYinMedium-B5,72,&H00F6F5F0,&H000000FF,&H1E000000,&H00000000,-1,0,0,0,100,100,1.5,0,1,0,0,5,15,15,15,1
 Style: STAFF,DFPPOP1W7-B5,53,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,15,15,30,1
 Style: OP-JP,DFPMaruGothic-Md,63,&H00E9D758,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.6,0,2,30,30,30,1
 Style: OP-CH,華康粗圓體,60,&H00E9D758,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.6,0,8,30,30,30,1
@@ -235,7 +235,7 @@ Dialogue: 0,0:07:09.95,0:07:10.99,JP,,0,0,0,,言ってない
 Dialogue: 0,0:07:10.99,0:07:11.94,JP,,0,0,0,,言ったろ
 Dialogue: 0,0:07:12.55,0:07:14.24,JP,,0,0,0,,さあ 選びなさい！
 Dialogue: 0,0:07:15.22,0:07:19.70,JP,,0,0,0,,あなたに１つだけ何者にも負けない　力を授けてあげましょう
-Dialogue: 0,0:07:23.10,0:07:24.55,JP,,0,0,0,,ゲーマーの勘だが 
+Dialogue: 0,0:07:23.10,0:07:24.55,JP,,0,0,0,,ゲーマーの勘だが
 Dialogue: 0,0:07:24.55,0:07:27.61,JP,,0,0,0,,これらは　反則級の能力や装備に違いない
 Dialogue: 0,0:07:27.92,0:07:31.93,JP,,0,0,0,,魔法がある異世界へ行くなら　ぜひとも魔法を使ってみたい
 Dialogue: 0,0:07:32.75,0:07:36.97,JP,,0,0,0,,ねえ 早くして　どうせ何 選んでも一緒よ
@@ -489,7 +489,7 @@ Dialogue: 0,0:07:05.05,0:07:07.85,Default,,0,0,0,,你剛剛好像說了很重要
 Dialogue: 0,0:07:08.58,0:07:09.95,Default,,0,0,0,,掛了是怎麼回事？
 Dialogue: 0,0:07:09.95,0:07:10.99,Default,,0,0,0,,我沒說
 Dialogue: 0,0:07:10.99,0:07:11.94,Default,,0,0,0,,你說了
-Dialogue: 0,0:07:12.55,0:07:14.24,Default,,0,0,0,,選擇吧 
+Dialogue: 0,0:07:12.55,0:07:14.24,Default,,0,0,0,,選擇吧
 Dialogue: 0,0:07:15.22,0:07:19.70,Default,,0,0,0,,我會賦予你一項無比強大的力量
 Dialogue: 0,0:07:23.10,0:07:24.55,Default,,0,0,0,,雖然只是玩家的直覺…
 Dialogue: 0,0:07:24.55,0:07:27.61,Default,,0,0,0,,但這些都是犯規的能力和裝備啊
