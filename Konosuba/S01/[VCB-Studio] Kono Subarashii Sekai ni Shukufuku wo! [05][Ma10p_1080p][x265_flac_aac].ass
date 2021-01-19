@@ -24,9 +24,9 @@ Video File: [VCB-Studio] Kono Subarashii Sekai ni Shukufuku wo! [05][Ma10p_1080p
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 411
-Active Line: 438
-Video Position: 31727
+Scroll Position: 420
+Active Line: 435
+Video Position: 31326
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -171,6 +171,7 @@ Dialogue: 0,0:03:31.39,0:03:37.36,OP-CH,,0,0,0,,{\t(0,700,0\1c&H38E572&)\t(700,1
 Comment: 0,0:03:37.36,0:03:39.36,OP-CH,,0,0,0,,
 Dialogue: 0,0:03:02.20,0:03:05.20,Title,,0,0,0,,{\bord4.5\1c&HFCA907&\3c&HFFFFFF&\fad(300,0)\pos(975,727.5)}為這把魔劍獻上價錢！
 Comment: 0,0:03:05.20,0:03:07.20,Title,,0,0,0,,
+Comment: 0,0:03:51.38,0:03:51.38,JP,,0,0,0,,JP
 Dialogue: 0,0:03:51.38,0:03:52.24,JP,,0,0,0,,どうよ？
 Dialogue: 0,0:03:52.75,0:03:55.04,JP,,0,0,0,,水の浄化なんて できるのか？
 Dialogue: 0,0:03:55.04,0:03:58.60,JP,,0,0,0,,バカね　私を誰だと思ってんの？
@@ -483,6 +484,7 @@ Dialogue: 0,0:21:49.04,0:21:50.70,JP,,0,0,0,,貴様ら…
 Dialogue: 0,0:21:52.58,0:21:54.90,JP,,0,0,0,,なぜ城に来ないのだ！
 Dialogue: 0,0:21:54.90,0:21:58.12,JP,,0,0,0,,この 人でなしどもがーっ！
 Dialogue: 0,0:22:00.46,0:22:01.33,JP,,0,0,0,,はい？
+Comment: 0,0:03:49.38,0:03:51.38,Default,,0,0,0,,CHT
 Dialogue: 0,0:03:51.38,0:03:52.24,Default,,0,0,0,,怎麼樣？
 Dialogue: 0,0:03:52.75,0:03:55.04,Default,,0,0,0,,你能淨化水質嗎？
 Dialogue: 0,0:03:55.04,0:03:58.60,Default,,0,0,0,,小傻瓜 你以為我是誰啊

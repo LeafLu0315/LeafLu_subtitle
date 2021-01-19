@@ -24,9 +24,8 @@ Video File: [VCB-Studio] Kono Subarashii Sekai ni Shukufuku wo! [01][Ma10p_1080p
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 686
-Active Line: 710
-Video Position: 4110
+Active Line: 3
+Video Position: 227
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -45,6 +44,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:03.00,STAFF,,0,0,0,,{\fad(300,300)}本字幕由DHR動研字幕組&茉語星夢聯合製作 僅供交流參考 如喜歡本作品請支持正版
 Dialogue: 0,0:00:03.00,0:00:07.00,STAFF,,0,0,0,,{\fad(300,300)}翻譯：傻瓜三世 ZERO 殭屍貓 校對：傻瓜三世 時間：河馬君 後期：Misaki喵  BDRip：DHR_IS
 Comment: 0,0:00:07.00,0:00:09.00,STAFF,,0,0,0,,雙語製作 by LeafLu
+Comment: 0,0:00:09.43,0:00:09.43,JP,,0,0,0,,JP
 Dialogue: 0,0:00:09.43,0:00:11.90,JP,,0,0,0,,ふだん 家に引きこもっている　俺だったが
 Dialogue: 0,0:00:12.31,0:00:14.88,JP,,0,0,0,,今日は珍しく外出を決心した
 Dialogue: 0,0:00:19.12,0:00:24.49,JP,,0,0,0,,本日発売の人気ネットゲーム　その初回限定盤を手に入れるためだ
@@ -131,6 +131,7 @@ Dialogue: 0,0:06:34.57,0:06:36.53,JP,,0,0,0,,ね？ 悪くないでしょ
 Dialogue: 0,0:06:39.98,0:06:42.33,JP,,0,0,0,,ええと 聞きたいんですけど
 Dialogue: 0,0:06:42.33,0:06:44.60,JP,,0,0,0,,俺 異世界語とか しゃべれるの？
 Dialogue: 0,0:06:45.09,0:06:47.08,JP,,0,0,0,,その辺は問題ないわ
+Comment: 0,0:00:09.00,0:00:09.43,Default,,0,0,0,,CHT
 Dialogue: 0,0:00:09.43,0:00:11.90,Default,,0,0,0,,平時都宅在家裡的我
 Dialogue: 0,0:00:12.31,0:00:14.88,Default,,0,0,0,,今天難得決定出個門
 Dialogue: 0,0:00:19.12,0:00:24.49,Default,,0,0,0,,為了買到今天發售的知名網遊初回限定版
@@ -224,9 +225,11 @@ Dialogue: 0,0:06:48.49,0:06:51.39,JP,,0,0,0,,私たち神々の　親切サポ�
 Dialogue: 0,0:06:51.39,0:06:55.18,JP,,0,0,0,,あなたの脳に負荷をかけて　一瞬で習得させられるわ
 Dialogue: 0,0:06:48.49,0:06:51.39,Default,,0,0,0,,我們神明會親切幫助你
 Dialogue: 0,0:06:51.39,0:06:55.18,Default,,0,0,0,,為你的大腦增加負荷 你就能瞬間精通
+Comment: 0,0:06:52.60,0:06:54.60,Screen,,0,0,0,,
 Dialogue: 0,0:06:54.60,0:06:57.30,Screen,,0,0,0,,{\p1\bord7.5\1a70\3c&H707574&\1c&HE4EBEA&\fscx2500\fscy1300\pos(387,210)}m 0 0 l -15 -15 l 15 -15 l 15 15 l 15 15 l -15 15 l -15 -15{\p0}
 Dialogue: 0,0:06:54.60,0:06:57.30,Screen,,0,0,0,,{\bord0\b0\fs45\1c&HA08AC8&\pos(330,15)}注意！
 Dialogue: 0,0:06:54.60,0:06:57.30,Screen,,0,0,0,,{\bord0\b0\fs33\1c&H686A6A&\pos(27,69)}為異世界轉生的志願者（以下稱為志願者乙）安裝轉生後\N\N可溝通的後天性對話能力時，必須對志願者乙的海馬體及\N\N大腦皮層周邊部位（以下稱為腦），一瞬間增加高度的負\N\N荷，所以偶爾會出現志願者乙的腦難以運轉（暈到掛）的\N\N狀態。根據第1296條第2項、第5項以及第2051\N\N條第3項的規定，志願者乙無法追究轉生負責人以及相關\N\N機關的過失責任。
+Comment: 0,0:06:55.18,0:06:55.18,JP,,0,0,0,,JP
 Dialogue: 0,0:06:55.18,0:06:58.74,JP,,0,0,0,,副作用として 運が悪いと　パーになるかもだけれど
 Dialogue: 0,0:06:58.74,0:07:02.39,JP,,0,0,0,,だから あとは　すごい能力か装備を選ぶだけね
 Dialogue: 0,0:07:05.05,0:07:07.85,JP,,0,0,0,,今 重大なことが　聞こえたんだけど
@@ -483,6 +486,7 @@ Dialogue: 0,0:23:16.37,0:23:20.65,JP,,0,0,0,,そうだよな　一応 お前 女
 Dialogue: 0,0:23:20.65,0:23:22.57,JP,,0,0,0,,うん 任せて
 Dialogue: 0,0:23:24.21,0:23:27.96,JP,,0,0,0,,こうして本当に一から　俺たちの冒険が
 Dialogue: 0,0:23:27.96,0:23:30.48,JP,,0,0,0,,改めて始まっ …た
+Comment: 0,0:06:55.18,0:06:55.18,Default,,0,0,0,,CHT
 Dialogue: 0,0:06:55.18,0:06:58.74,Default,,0,0,0,,要說副作用 運氣不好的話可能就掛了
 Dialogue: 0,0:06:58.74,0:07:02.39,Default,,0,0,0,,所以你只要選個很厲害的能力或者道具就好了
 Dialogue: 0,0:07:05.05,0:07:07.85,Default,,0,0,0,,你剛剛好像說了很重要的事
