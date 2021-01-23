@@ -49,12 +49,12 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:15.49,0:00:20.49,STAFF,,0,0,0,,{\fad(300,300)}本字幕由DHR動研字幕組&茉語星夢聯合製作 僅供交流參考 如喜歡本作品請支持正版
 Dialogue: 0,0:00:15.49,0:00:20.49,STAFF,,0,0,0,,{\fad(300,300)}翻譯：lumiere Ｂちゃんねる 如水 ZERO 校對：傻瓜三世 \N時軸：Valesail 後期：Misaki喵
 Comment: 0,0:00:20.49,0:00:21.61,STAFF,,0,0,0,,雙語製作 by LeafLu
-Dialogue: 0,0:00:03.56,0:00:15.52,Screen,,0,0,0,,{\fnFZJiChuXiangSuS-R-GB\fad(0,200)\fs51\bord7.5\pos(804,72)}請輸入復活咒語
-Dialogue: 0,0:00:04.39,0:00:08.31,Screen,,0,0,0,,{\fnFZJiChuXiangSuS-R-GB\fs51\bord7.5\2aFF\pos(384,270)\k20}和{\k20}真{\k20}是{\k20}%{\k20} 美{\k20}好{\k20}世{\k20}界{\k20}？{\k20} 最{\k20}棒{\k20}的{\k20}&{\k20} *{\k20} ！{\k20}￥{\k20} @
-Dialogue: 0,0:00:04.39,0:00:08.31,Screen,,0,0,0,,{\fnFZJiChuXiangSuS-R-GB\fs39\bord7.5\pos(1407,495)}輸入完畢
-Dialogue: 0,0:00:08.31,0:00:09.97,Screen,,0,0,0,,{\fnFZJiChuXiangSuS-R-GB\fs45\bord6\pos(681,342)}咒語錯誤 冒險之書消失了
-Dialogue: 0,0:00:11.32,0:00:15.48,Screen,,0,0,0,,{\fad(0,200)\fnFZJiChuXiangSuS-R-GB\fs54\bord7.5\2aFF\pos(384,270)\k20}為{\k20}美{\k20}好{\k20}的{\k20}世{\k20}界{\k20}獻{\k20}上{\k20}祝{\k20}福{\k20} 2
-Dialogue: 0,0:00:11.32,0:00:15.48,Screen,,0,0,0,,{\fad(0,200)\fnFZJiChuXiangSuS-R-GB\fs39\bord7.5\pos(1404,501)}輸入完畢
+Dialogue: 0,0:00:03.56,0:00:15.52,Screen,,0,0,0,,{\fnDFGuYinMedium-B5\fad(0,200)\fs51\bord7.5\pos(804,72)}請輸入復活咒語
+Dialogue: 0,0:00:04.39,0:00:08.31,Screen,,0,0,0,,{\fnDFGuYinMedium-B5\fs51\bord7.5\2aFF\pos(384,270)\k20}和{\k20}真{\k20}是{\k20}%{\k20} 美{\k20}好{\k20}世{\k20}界{\k20}？{\k20} 最{\k20}棒{\k20}的{\k20}&{\k20} *{\k20} ！{\k20}￥{\k20} @
+Dialogue: 0,0:00:04.39,0:00:08.31,Screen,,0,0,0,,{\fnDFGuYinMedium-B5\fs39\bord7.5\pos(1407,495)}輸入完畢
+Dialogue: 0,0:00:08.31,0:00:09.97,Screen,,0,0,0,,{\fnDFGuYinMedium-B5\fs45\bord6\pos(681,342)}咒語錯誤 冒險之書消失了
+Dialogue: 0,0:00:11.32,0:00:15.48,Screen,,0,0,0,,{\fad(0,200)\fnDFGuYinMedium-B5\fs54\bord7.5\2aFF\pos(384,270)\k20}為{\k20}美{\k20}好{\k20}的{\k20}世{\k20}界{\k20}獻{\k20}上{\k20}祝{\k20}福{\k20} 2
+Dialogue: 0,0:00:11.32,0:00:15.48,Screen,,0,0,0,,{\fad(0,200)\fnDFGuYinMedium-B5\fs39\bord7.5\pos(1404,501)}輸入完畢
 Comment: 0,0:00:15.52,0:00:16.65,Default,,0,0,0,,
 Dialogue: 0,0:00:16.65,0:00:18.43,JP,,0,0,0,,俺の名はサトウカズマ
 Dialogue: 0,0:00:18.43,0:00:21.20,JP,,0,0,0,,魔王と戦う宿命を　背負った異邦人
@@ -646,7 +646,7 @@ Dialogue: 0,0:13:15.24,0:13:16.73,Default,,0,0,0,,對不起
 Dialogue: 0,0:13:16.73,0:13:19.78,Default,,0,0,0,,你知道街頭巷尾都怎麼稱呼你嗎
 Dialogue: 0,0:13:19.78,0:13:20.36,Default,,0,0,0,,不知道
 Dialogue: 0,0:13:20.57,0:13:22.84,Default,,0,0,0,,廢物真 人渣真之類的
-Dialogue: 0,0:13:20.36,0:13:23.02,Comment,,0,0,0,,{\fad(300,300)}※カズ（和）マ（真）⇒カス（廢物）マ/クズ（人渣）マ
+Dialogue: 0,0:13:20.36,0:13:23.02,Comment,,0,0,0,,{\fad(300,300)}※カズ（和）マ（真）→カス（廢物）マ/クズ（人渣）マ
 Dialogue: 0,0:13:22.84,0:13:26.74,Default,,0,0,0,,好…好過分 到底哪個傢伙給我取了這種綽號啊
 Dialogue: 0,0:13:28.58,0:13:30.74,Default,,0,0,0,,以防萬一 我再問你一次
 Dialogue: 0,0:13:30.74,0:13:34.10,Default,,0,0,0,,你真的與魔王軍毫無瓜葛吧
